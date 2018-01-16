@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\arrayIndexOutOfBounds",
+    "\\resourceLeak",
+    "\\syntaxError"
+  ],
+  "SelectedNode": "\\arrayIndexOutOfBounds\\bad.c",
+  "PreviewInSolutionExplorer": false
+}
